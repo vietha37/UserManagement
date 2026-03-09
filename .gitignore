@@ -1,0 +1,13 @@
+# node
+node_modules
+.next
+
+# .NET
+bin/
+obj/
+
+# env
+.env
+
+# system
+.DS_Store
